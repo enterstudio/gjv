@@ -40,7 +40,7 @@
     "to-color": "^1.1.0",
     "turf": "^2.0.2",
     "turf-extent": "^1.0.4",
-    "yargs": "^4.1.0"
+    "yargs": "^13.1.0"
   },
   "devDependencies": {
     "electron-packager": "^5.0.0",
